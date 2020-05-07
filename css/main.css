@@ -118,6 +118,9 @@ section {
   padding-left: 0;
   width: 575px;
   margin-top: 10px;
+}
+
+.nav-list li a {
   font-size: 16px;
   font-variant-caps: all-small-caps;
   font-weight: 700;
