@@ -156,7 +156,7 @@ section {
   background-image: url("../img/hero.jpg");
   height: 400px;
   background-size: cover;
-  background-position: center;
+  background-position: center center;
   text-transform: uppercase;
 }
 
@@ -169,7 +169,7 @@ section {
   color: #faa541;
 }
 
-.hero h1,h2 {
+.hero h1, .hero h2 {
   font-size: 63px;
   font-weight: 700;
   line-height: 0.9;
@@ -187,7 +187,7 @@ section {
   width: 100%;
   border-top: 1px solid #a0a0a0;
   border-bottom: 1px solid #a0a0a0;
-  padding: 10px 0;
+  padding: 25px 0;
 }
 
 .banner img {
@@ -202,7 +202,7 @@ section {
   text-align: center;
 }
 
-.banner-text>div:last-child {
+.banner-text > div:last-child {
   font-size: 16px;
   font-weight: 400;
   margin-top: 5px;
@@ -224,7 +224,7 @@ section {
   text-align: center;
 }
 
-.category-text>div {
+.category-text > div {
   font-size: 16px;
   font-weight: 200;
   color: #faa541;
